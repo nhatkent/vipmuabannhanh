@@ -1,0 +1,210 @@
+<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1463331860840">
+  <folder name="css">
+    <file name="site_global.css" crc="475048684"/>
+    <file name="index.css" crc="320861229" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <folder name="case">
+      <folder name="edge_includes">
+        <file name="edge.5.0.0.min.js" crc="430951529" mt="1463330696000"/>
+      </folder>
+      <folder name="images">
+        <file name="phone_mock.png" crc="4024312130" mt="1463330696000"/>
+        <file name="Poster.png" crc="230757045" mt="1463330696000"/>
+        <file name="tc1.png" crc="4292018018" mt="1463330696000"/>
+        <file name="tc2.png" crc="379956455" mt="1463330696000"/>
+        <file name="tc3.png" crc="4121701864" mt="1463330696000"/>
+        <file name="tc4.png" crc="416265893" mt="1463330696000"/>
+        <file name="tc5.png" crc="509483449" mt="1463330696000"/>
+      </folder>
+      <file name="icon.png" crc="230757045" mt="1463330696000"/>
+      <file name="case_edge.js" crc="15345840" mt="1463330696000"/>
+      <file name="case.html" crc="507089961" mt="1463330696000"/>
+    </folder>
+    <folder name="vip">
+      <folder name="edge_includes">
+        <file name="edge.5.0.0.min.js" crc="430951529" mt="1463329450000"/>
+      </folder>
+      <folder name="images">
+        <file name="phone_mock.png" crc="4024312130" mt="1463329450000"/>
+        <file name="Poster.png" crc="4202900429" mt="1463329450000"/>
+        <file name="v1.png" crc="311029722" mt="1463329450000"/>
+        <file name="v2.png" crc="311875352" mt="1463329450000"/>
+        <file name="v3.png" crc="116430565" mt="1463329450000"/>
+        <file name="v4.png" crc="162061095" mt="1463329450000"/>
+        <file name="v5.png" crc="446072144" mt="1463329450000"/>
+      </folder>
+      <file name="icon.png" crc="4202900429" mt="1463329450000"/>
+      <file name="vip_edge.js" crc="177290863" mt="1463329450000"/>
+      <file name="vip.html" crc="175641274" mt="1463329450000"/>
+    </folder>
+    <folder name="danhgia2">
+      <folder name="edge_includes">
+        <file name="edge.5.0.0.min.js" crc="430951529" mt="1463326192000"/>
+      </folder>
+      <folder name="images">
+        <file name="phone_mock.png" crc="4024312130" mt="1463326192000"/>
+        <file name="Poster.png" crc="299105466" mt="1463326192000"/>
+        <file name="danhgia_screen.gif" crc="293131051" mt="1463326192000"/>
+      </folder>
+      <file name="icon.png" crc="299105466" mt="1463326192000"/>
+      <file name="danhgia_edge.js" crc="4054952402" mt="1463326192000"/>
+      <file name="danhgia.html" crc="162662083" mt="1463326192000"/>
+    </folder>
+    <folder name="domain">
+      <folder name="edge_includes">
+        <file name="edge.5.0.0.min.js" crc="430951529" mt="1463325134000"/>
+      </folder>
+      <folder name="images">
+        <file name="dang1tin.png" crc="202831864" mt="1463325134000"/>
+        <file name="dienthoaicu_text.png" crc="145390681" mt="1463325134000"/>
+        <file name="giambeogiamcan.png" crc="409872635" mt="1463325134000"/>
+        <file name="nhadatvip_text.png" crc="248253146" mt="1463325134000"/>
+        <file name="phone_mock.png" crc="4024312130" mt="1463325134000"/>
+        <file name="Poster.png" crc="505253716" mt="1463325134000"/>
+        <file name="shopvaydep.png" crc="3934513794" mt="1463325134000"/>
+        <file name="thegioiamthuc.png" crc="308868606" mt="1463325134000"/>
+        <file name="thegioilaptop_text.png" crc="162654634" mt="1463325134000"/>
+        <file name="thegioitainghe_text.png" crc="200518863" mt="1463325134000"/>
+        <file name="timnhachothue_text.png" crc="3932069976" mt="1463325134000"/>
+        <file name="xaydungnhadep_text.png" crc="268297046" mt="1463325134000"/>
+        <file name="xeotocugiare_text.png" crc="283994036" mt="1463325134000"/>
+        <file name="xetaikia.png" crc="3986436490" mt="1463325134000"/>
+      </folder>
+      <file name="icon.png" crc="505253716" mt="1463325134000"/>
+      <file name="domain_edge.js" crc="3992326719" mt="1463325134000"/>
+      <file name="domain.html" crc="4034661455" mt="1463325134000"/>
+    </folder>
+    <folder name="baochi_mo2">
+      <folder name="edge_includes">
+        <file name="edge.5.0.0.min.js" crc="430951529" mt="1463323507000"/>
+      </folder>
+      <folder name="images">
+        <file name="baochi1.png" crc="4088265688" mt="1463323507000"/>
+        <file name="baochi2.png" crc="4091136878" mt="1463323507000"/>
+        <file name="baochi3.png" crc="47280966" mt="1463323507000"/>
+        <file name="baochi4.png" crc="4065267912" mt="1463323507000"/>
+        <file name="phone_mock.png" crc="4024312130" mt="1463323507000"/>
+        <file name="Poster.png" crc="4260504397" mt="1463323507000"/>
+      </folder>
+      <file name="baochi_mo2_edge.js" crc="4277897654" mt="1463323507000"/>
+      <file name="baochi_mo2.html" crc="4026059045" mt="1463323507000"/>
+    </folder>
+    <folder name="thanhcong">
+      <folder name="edge_includes">
+        <file name="edge.5.0.0.min.js" crc="430951529" mt="1463287254000"/>
+      </folder>
+      <folder name="images">
+        <file name="phone_mock.png" crc="4024312130" mt="1463287254000"/>
+        <file name="Poster.png" crc="4192262782" mt="1463287254000"/>
+        <file name="tc1.png" crc="4292018018" mt="1463287254000"/>
+        <file name="tc2.png" crc="379956455" mt="1463287254000"/>
+        <file name="tc3.png" crc="4121701864" mt="1463287254000"/>
+        <file name="tc4.png" crc="416265893" mt="1463287254000"/>
+        <file name="tc5.png" crc="509483449" mt="1463287254000"/>
+      </folder>
+      <file name="icon.png" crc="4192262782" mt="1463287254000"/>
+      <file name="thanhcong_edge.js" crc="326405867" mt="1463287254000"/>
+      <file name="thanhcong.html" crc="457515311" mt="1463287254000"/>
+    </folder>
+    <folder name="vip_member">
+      <folder name="edge_includes">
+        <file name="edge.5.0.0.min.js" crc="430951529" mt="1463285381000"/>
+      </folder>
+      <folder name="images">
+        <file name="1.png" crc="311029722" mt="1463285381000"/>
+        <file name="2.png" crc="311875352" mt="1463285381000"/>
+        <file name="3.png" crc="116430565" mt="1463285381000"/>
+        <file name="4.png" crc="162061095" mt="1463285381000"/>
+        <file name="5.png" crc="446072144" mt="1463285381000"/>
+        <file name="phone_mock.png" crc="4024312130" mt="1463285381000"/>
+        <file name="Poster.png" crc="3842245886" mt="1463285381000"/>
+        <file name="v1.png" crc="311029722" mt="1463285381000"/>
+        <file name="v2.png" crc="311875352" mt="1463285381000"/>
+        <file name="v3.png" crc="116430565" mt="1463285381000"/>
+        <file name="v4.png" crc="162061095" mt="1463285381000"/>
+        <file name="v5.png" crc="446072144" mt="1463285381000"/>
+      </folder>
+      <file name="vip_member_edge.js" crc="4023229326" mt="1463285381000"/>
+      <file name="vip_member.html" crc="27613136" mt="1463285381000"/>
+    </folder>
+    <folder name="danhgia">
+      <folder name="edge_includes">
+        <file name="edge.5.0.0.min.js" crc="430951529" mt="1463249471000"/>
+      </folder>
+      <folder name="images">
+        <file name="phone_mock.png" crc="4024312130" mt="1463249471000"/>
+        <file name="Poster.png" crc="361384333" mt="1463249471000"/>
+        <file name="danhgia_screen.gif" crc="293131051" mt="1463249471000"/>
+      </folder>
+      <file name="transparent.png" crc="3891739085" mt="1463249471000"/>
+      <file name="danhgia_edge.js" crc="330745411" mt="1463249471000"/>
+      <file name="danhgia.html" crc="4140931386" mt="1463249471000"/>
+    </folder>
+    <folder name="vetinh_mbn">
+      <folder name="edge_includes">
+        <file name="edge.5.0.0.min.js" crc="430951529" mt="1463246536000"/>
+      </folder>
+      <folder name="images">
+        <file name="dang1tin.png" crc="202831864" mt="1463246536000"/>
+        <file name="dienthoaicu_text.png" crc="145390681" mt="1463246536000"/>
+        <file name="giambeogiamcan.png" crc="409872635" mt="1463246536000"/>
+        <file name="nhadatvip_text.png" crc="248253146" mt="1463246536000"/>
+        <file name="phone_mock.png" crc="4024312130" mt="1463246536000"/>
+        <file name="Poster.png" crc="4018019435" mt="1463246536000"/>
+        <file name="shopvaydep.png" crc="3934513794" mt="1463246536000"/>
+        <file name="thegioiamthuc.png" crc="308868606" mt="1463246536000"/>
+        <file name="thegioilaptop_text.png" crc="162654634" mt="1463246536000"/>
+        <file name="thegioitainghe_text.png" crc="200518863" mt="1463246536000"/>
+        <file name="timnhachothue_text.png" crc="3932069976" mt="1463246536000"/>
+        <file name="xaydungnhadep_text.png" crc="268297046" mt="1463246536000"/>
+        <file name="xeotocugiare_text.png" crc="283994036" mt="1463246536000"/>
+        <file name="xetaikia.png" crc="3986436490" mt="1463246536000"/>
+      </folder>
+      <file name="vetinh_mbn_edge.js" crc="388771435" mt="1463246536000"/>
+      <file name="vetinh_mbn.html" crc="468113618" mt="1463246536000"/>
+    </folder>
+    <folder name="baochi_slide">
+      <folder name="edge_includes">
+        <file name="edge.5.0.0.min.js" crc="430951529" mt="1463241322000"/>
+      </folder>
+      <folder name="images">
+        <file name="baochi.png" crc="3843379551" mt="1463241322000"/>
+        <file name="baochi1.png" crc="4088265688" mt="1463241322000"/>
+        <file name="baochi2.png" crc="4091136878" mt="1463241322000"/>
+        <file name="baochi3.png" crc="47280966" mt="1463241322000"/>
+        <file name="baochi4.png" crc="4065267912" mt="1463241322000"/>
+        <file name="phone_mock.png" crc="4024312130" mt="1463241322000"/>
+      </folder>
+      <file name="transparent.png" crc="1659319" mt="1463241322000"/>
+      <file name="baochi_slide_edge.js" crc="4107565736" mt="1463241322000"/>
+      <file name="baochi_slide.html" crc="4006197153" mt="1463241322000"/>
+    </folder>
+    <file name="matcuoi.svg" crc="3817060445" mt="1463210006000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3850798583" ref="phone>index:index"/>
+    <file name="museutils.js" crc="212726984" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="4125239756" ref="phone>index:index"/>
+    <file name="museredirect.js" crc="3986430445" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="matcuoi327x77.png" crc="48621930" ref="phone>index"/>
+    <file name="dangky_cta.png" crc="3984687752" ref="phone>index:index"/>
+    <file name="chixuong.png" crc="4042494527" ref="phone>index:index"/>
+    <file name="taisaochon.png" crc="3919873486" ref="phone>index"/>
+    <file name="hotrobanhang.png" crc="3835061714" ref="phone>index"/>
+    <file name="endmo.png" crc="4280070874" ref="phone>index"/>
+    <file name="matcuoi.png" crc="4157412848" ref="index"/>
+    <file name="taisaochon_timline.png" crc="509647302" ref="index"/>
+    <file name="hethongtoandien.png" crc="3920840078" ref="index"/>
+    <file name="end.png" crc="4236842635" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="3997964134" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4187731317" mt="1463331491583" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4226817274" mt="1463331581309" redirect="true"/>
+</manifest>
